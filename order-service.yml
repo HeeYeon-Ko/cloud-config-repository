@@ -7,7 +7,7 @@ spring:
 # payment-service의 이름은 spring.application.name을 기반으로 함
 service:
   payment:
-    url: http://payment-service/payments
+    url: http://payment-service
 
 server:
   port: 8080
